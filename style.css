@@ -1,0 +1,92 @@
+body {
+    background-image: url(./123.jfif); 
+    background-size: 100%;
+    
+    
+}
+
+#heading1 {
+    position: absolute;
+    top: 1.5%;
+    left: 9%;
+
+    
+
+}
+
+#heading1:hover {
+  background-color: rgb(255, 0, 0);
+}
+
+
+#heading2 {
+  position: absolute;
+  top: 15%;
+  left: 0.2%;
+    
+}
+
+#table1 {
+    border: 3pt solid black;
+    width: 75%;
+    /* position: relative; */
+    
+}
+
+th, td {
+    
+    text-align: center;
+    border-bottom: 2pt solid rgb(20, 19, 19);
+    background-color: #cfdbd7;
+    width: 20%;
+    opacity: 0.91;
+    font-size: 99%;
+    border-radius: 10%;
+    
+  }
+
+
+th {
+    background-color: #78ddbc;
+    color: rgb(0, 0, 0);
+    opacity: 0.8;
+    font-size: 170%;
+    
+  }
+  .button-cell {
+    display: inline-block;
+    background-color: #f1f5f5; 
+    color: rgb(0, 0, 0); 
+    border-radius: 10px; 
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    width: 99%;
+    border: 2pt solid;
+    font-size: 20pt;
+  }
+  .button-cell:hover {
+    background-color: #0d8d0d;
+  }
+
+#paytmm{  
+  /* width: 1px; */
+  position: absolute;
+  top: 7%;
+  left: 77%;
+}
+
+#cred{
+    position: absolute;
+    top: 54%;
+    left: 76%;
+    
+
+  }
+
+.container{
+  background-color: azure;
+  width: 100%;
+}
+
+  
